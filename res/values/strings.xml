@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AmatorFutbol</string>
+
+    <string-array name="list_group">
+        <item>1.Amatör Play-Off</item>
+        <item>1.Amatör A Grubu</item>
+        <item>1.Amatör B Grubu</item>
+        <item>1.Amatör C Grubu</item>
+        <item>2.Amatör A Grubu</item>
+        <item>2.Amatör B Grubu</item>
+    </string-array>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
